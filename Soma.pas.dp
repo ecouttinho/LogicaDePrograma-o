@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\Eduardo\Documents\aula\01soma.dp
+Name=01soma
+MainUnit=C:\Users\Eduardo\Documents\aula\aula01.pas
+UnitCount=1
+ResFiles=C:\Users\Eduardo\Documents\aula\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=C:\Users\Eduardo\Documents\aula\aula01.pas
+FileTime=1514382994
